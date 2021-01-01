@@ -1,0 +1,31 @@
+.runs{
+   position: relative;
+   box-shadow: 0px 0px 6px 2px rgb(100, 99, 99);
+   
+}
+.runs .spin{
+  
+   position: absolute;
+   
+   bottom: 40%;left: 43%;
+   top: 10%;
+  
+  
+   
+}
+.runs select{
+   color: rgb(46, 42, 42);
+    font-weight: 500;
+  }
+
+  .runs label{
+     
+   color: rgb(46, 42, 42);
+   font-weight: bold;
+   font-size: 90%;
+}
+.runs option{
+ color: rgb(46, 42, 42);
+ font-weight: 400;
+   
+}
